@@ -7,7 +7,7 @@ The goal of the project was to recreate the core mechanics of Flappy Bird while 
 ## Gameplay
 
 <p align="center">
-  <img src="docs/flappy-bird-gameplay.gif" alt="Flappy Bird gameplay" width="320">
+  <img src="flappy-bird-gameplay.gif" alt="Flappy Bird gameplay" width="320">
 </p>
 
 ## Features
